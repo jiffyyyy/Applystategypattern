@@ -1,0 +1,16 @@
+INDEX VERSION 1.131+C:\Users\C409\eclipse-workspace\ApplyStategyPattern\.metadata\.plugins\org.eclipse.jdt.core
+132734380.index
+2452355399.index
+3927774303.index
+2872044937.index
+1742688453.index
+3366803714.index
+4085056762.index
+1140851249.index
+1735947323.index
+3150445105.index
+2354526854.index
+2071212874.index
+92267599.index
+3722728610.index
+530894233.index
